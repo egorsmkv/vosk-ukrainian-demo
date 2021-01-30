@@ -10,3 +10,7 @@
 3. Save some WAV files in the `samples` folder
 
 4. Run the recognizer
+
+   ```
+   python recognize.py
+   ```
