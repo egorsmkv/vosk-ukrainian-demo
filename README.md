@@ -9,7 +9,14 @@
 
 3. Save some WAV files in the `samples` folder
 
-4. Run the recognizer
+4. Install dependencies using **pipenv** and enter into the shell
+
+   ```
+   pipenv install
+   pipenv shell
+   ```
+
+5. Run the recognizer
 
    ```
    python recognize.py
